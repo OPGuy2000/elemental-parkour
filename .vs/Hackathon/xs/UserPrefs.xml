@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4F76A86B-97AA-3C9C-A637-B987DC1DB2E1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpotlightFollow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpotlightFollow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hackathon" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22b112a3-396b-494d-b33d-bd7193ab9303" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -356,6 +356,7 @@
 "Assets/GoToTheGame.cs"
 "Assets/SceneLoadScript.cs"
 "Assets/Scripts/Camera Follow.cs"
+"Assets/Scripts/FootstepsScript.cs"
 "Assets/Scripts/Player Movement.cs"
 "Assets/Scripts/SpotlightFollow.cs"
 -langversion:9.0

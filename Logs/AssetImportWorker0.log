@@ -477,3 +477,91 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4612.492340 seconds.
+  path: Assets/Sounds
+  artifactKey: Guid(e311a576cb8ce49409da2e43f4ec3794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds using Guid(e311a576cb8ce49409da2e43f4ec3794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3adb2cd3ede6fd877fa7fe7cac112cff') in 0.020184 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 20.716066 seconds.
+  path: Assets/Sounds/Walking.mixer
+  artifactKey: Guid(fd3922127fc4d444ebf9c8509e16f465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Walking.mixer using Guid(fd3922127fc4d444ebf9c8509e16f465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4409c8af9fb42586898f47e1a65c50ef') in 0.068103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 314.573648 seconds.
+  path: Assets/Sounds/Footsteps-in-grass-moderate-A-www.fesliyanstudios.com copy.mp3
+  artifactKey: Guid(aa529337645b5443f91def6396ad8a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Footsteps-in-grass-moderate-A-www.fesliyanstudios.com copy.mp3 using Guid(aa529337645b5443f91def6396ad8a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa0f1de073b9a6d0416c3c31be34cee') in 0.516820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 183.217501 seconds.
+  path: Assets/Sounds/radio-static-6382.mp3
+  artifactKey: Guid(f4010ee813897470381a95f6d750fd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/radio-static-6382.mp3 using Guid(f4010ee813897470381a95f6d750fd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e842a47116979288036121092da827') in 0.011147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 66.686828 seconds.
+  path: Assets/Sounds/old-radio-noise-46734.mp3
+  artifactKey: Guid(d084681e812854e89b6d57476347bac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/old-radio-noise-46734.mp3 using Guid(d084681e812854e89b6d57476347bac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a5a448b9eda22c1d09607ac5ad8f55b') in 0.009239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1109.473315 seconds.
+  path: Assets/Sounds/beep-01a.mp3
+  artifactKey: Guid(81383eefac10e467ab85f8f720f3ec2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/beep-01a.mp3 using Guid(81383eefac10e467ab85f8f720f3ec2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73eb2a87e1b16ab5e77080dba4dc3e4') in 0.013657 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3918.762640 seconds.
+  path: Assets/Sounds/Line 1.mp3
+  artifactKey: Guid(76470e4c4f7ca43848f7dd6114ad0056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Line 1.mp3 using Guid(76470e4c4f7ca43848f7dd6114ad0056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a127c0f72576e7c3bad4726ec3ad5d73') in 0.053523 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Sounds/Line 3.mp3
+  artifactKey: Guid(f75385e76bfb741529f9f2434abad764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Line 3.mp3 using Guid(f75385e76bfb741529f9f2434abad764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cad1a406e7fb24a8f38a29db0b7c20a') in 0.011535 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sounds/Line 4.mp3
+  artifactKey: Guid(6cd8240534e8b4eea8d5cba60da1741e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Line 4.mp3 using Guid(6cd8240534e8b4eea8d5cba60da1741e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215a192cc8e5df2fbf424ed3f9132bb7') in 0.009643 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 586.814866 seconds.
+  path: Assets/Sounds/Line_2.mp3
+  artifactKey: Guid(b38e717dfb1ad43fdb4a074fb4182354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Line_2.mp3 using Guid(b38e717dfb1ad43fdb4a074fb4182354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5fc83e425612bb58c7f5b02450ce36c') in 0.013293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Sounds/Line_4.mp3
+  artifactKey: Guid(8b61a5373906244c393b91b6c9e254be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sounds/Line_4.mp3 using Guid(8b61a5373906244c393b91b6c9e254be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9605196a3da7c0b086e29d741888cfdb') in 0.012238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
